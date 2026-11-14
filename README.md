@@ -37,6 +37,30 @@ I help websites get found, rank and grow from organic search.
 | Projects led | **6+** | E-commerce and healthcare |
 | Local SEO | **Map pack rankings up significantly** | Google Business Profile campaigns |
 | Experience | **3+ years** | 4 companies |
+| Case study | **+357% organic revenue · #1 ranking** | Boat Rental Formentor (GSC + GA4 evidence) |
+
+---
+
+## 📂 Featured case study: Boat Rental Formentor
+
+A Mallorca boat-rental business ([boatrentalformentor.com](https://www.boatrentalformentor.com/)) targeting local, high-intent searches. Last 3 months vs previous 3 months:
+
+| KPI | Before | After | Change |
+|---|---|---|---|
+| GSC clicks | 615 | ≈1.3K | **+111%** |
+| GSC impressions | 28.5K | 37.6K | +31.9% |
+| GSC CTR | 2.2% | 3.5% | +59.1% |
+| Average position | 17.2 | 10.3 | **6.9 places up** |
+| GA4 organic users | 1,366 | 3,089 | **+126.1%** |
+| GA4 organic sessions | 2,077 | 5,098 | +145.5% |
+| GA4 key events | 12 | 42 | +250% |
+| GA4-attributed organic revenue | €2,620 | €11,970 | **+356.9%** |
+
+**#1 on Google for "boat rental formentor"** and 30 of 38 tracked keywords in the Top 10.
+
+<p align="center"><img src=".github/readme/case-study.jpg" alt="Case study section with clickable report walkthrough" width="100%" /></p>
+
+📄 **[Read the full case study (PDF, 7 pages)](assets/case-studies/boat-rental-formentor-seo-case-study.pdf)** · or walk through it page by page on the [live site](https://aman123rai123.github.io/seo-growth-portfolio/#case-study).
 
 ---
 
