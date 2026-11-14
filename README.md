@@ -12,6 +12,7 @@ I help websites get found, rank and grow from organic search.
 [![Live portfolio](https://img.shields.io/badge/▶_Live_portfolio-1a73e8?style=for-the-badge)](https://aman123rai123.github.io/seo-growth-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-rai-493818212/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanrai2319@gmail.com)
+[![Résumé](https://img.shields.io/badge/⬇_Download_résumé-188038?style=for-the-badge)](https://aman123rai123.github.io/seo-growth-portfolio/assets/Aman_Rai_SEO_Executive_Resume.pdf)
 [![Deploy](https://github.com/Aman123rai123/seo-growth-portfolio/actions/workflows/deploy.yml/badge.svg)](https://github.com/Aman123rai123/seo-growth-portfolio/actions/workflows/deploy.yml)
 
 ![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
